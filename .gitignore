@@ -1,0 +1,35 @@
+# compiled output
+todolist/dist
+todolist/node_modules
+
+# Logs
+todolist/logs
+todolist/*.log
+todolist/npm-debug.log*
+todolist/pnpm-debug.log*
+todolist/yarn-debug.log*
+todolist/yarn-error.log*
+todolist/lerna-debug.log*
+
+# OS
+todolist/.DS_Store
+
+# Tests
+todolist/coverage
+todolist/.nyc_output
+
+# IDEs and editors
+todolist/.idea
+todolist/.project
+todolist/.classpath
+todolist/.c9/
+todolist/*.launch
+todolist/.settings/
+todolist/*.sublime-workspace
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
